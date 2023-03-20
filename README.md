@@ -42,11 +42,12 @@
                "is_ringtone_available": false
     }
 }
+```
 
 Clone this repository using
 ```sh
 $ https://github.com/reddy0852/download_songs_api_.git
-```
+
 Enter the directory and install all the requirements using
 ```sh
 $ pip3 install -r requirements.txt
