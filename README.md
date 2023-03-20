@@ -45,7 +45,7 @@
 ```
 Clone this repository using
 ```sh
-$ https://github.com/reddy0852/download_songs_api_.git
+$ git clone https://github.com/reddy0852/download_songs_api_
 ```
 Enter the directory and install all the requirements using
 ```sh
